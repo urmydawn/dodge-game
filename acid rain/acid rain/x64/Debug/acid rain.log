@@ -1,0 +1,6 @@
+﻿  Source.c
+F:\코딩\Dodge Game\dodge-game\acid rain\Source.c(143,21): warning C4047: '함수': 'size_t'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+F:\코딩\Dodge Game\dodge-game\acid rain\Source.c(143,21): warning C4024: 'malloc': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+F:\코딩\Dodge Game\dodge-game\acid rain\Source.c(143,9): warning C4311: '형식 캐스트': 'void *'에서 'int'(으)로 포인터가 잘립니다.
+F:\코딩\Dodge Game\dodge-game\acid rain\Source.c(137,7): warning C4101: 'key' :참조되지 않은 지역 변수입니다.
+  acid rain.vcxproj -> F:\코딩\Dodge Game\dodge-game\acid rain\x64\Debug\acid rain.exe

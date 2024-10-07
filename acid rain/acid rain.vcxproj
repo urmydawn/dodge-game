@@ -129,6 +129,15 @@
   <ItemGroup>
     <ClCompile Include="Source.c" />
   </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="acid rain1.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="7795605_weather_rain_cloud_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource1.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
